@@ -5,7 +5,7 @@ For Dr. Kry. This is just a draft in C that I'm going to develop in Python
 
 #include <stdio.h>
 #include <math.h>
-#include <gtk/gtk.h>
+#include <gtk/gtk.h>  // TODO
 
 // Constants
 #define D_VERTEX_DISTANCE 0.012
